@@ -29,7 +29,7 @@ public class SalesExecuter {
         return salesExecuter;
     }
 
-    /**
+    /** This method initialize the stock as per the input file
      * @param stockFile
      * @return
      */
@@ -62,7 +62,7 @@ public class SalesExecuter {
         return true;
     }
 
-    /**
+    /** This method parses the sales stock
      * @param stockEntry
      * @return
      */
@@ -92,7 +92,7 @@ public class SalesExecuter {
         return product;
     }
 
-    /**
+    /** This method parses the notification input file
      * @param notificationsInputFile
      * @return
      */
@@ -109,7 +109,7 @@ public class SalesExecuter {
         return messages;
     }
 
-    /**
+    /** This method processes the list of messages
      * @param messages
      * @return
      */
