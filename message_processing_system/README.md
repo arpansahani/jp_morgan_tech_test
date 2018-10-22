@@ -28,8 +28,8 @@ However, In actual implementation, the json would probably be received as a resp
 
 ##Reference Commandline Arguments:
 1) Please adjust path (in the following strings) as per your needs.
-2) First argument is stock file: D:/workspace1/message_processing_system/src/resources/stock.csv
-3) Second and last argument is notifications file: D:/workspace1/message_processing_system/src/resources/Message_TYPE_1_notifications.json
+2) First argument is stock file: D:/githubWorkspace/jp_morgan_tech_test/message_processing_system/src/resources/stock.csv
+3) Second and last argument is notifications file: D:/githubWorkspace/jp_morgan_tech_test/message_processing_system/src/resources/Message_TYPE_1_notifications.json
 
 ##Sample Data:
 There are five sample data files:
